@@ -56,7 +56,20 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias
     <img alt="Web" src="https://github.com/FelipeSoller/proffy_nlw2/blob/master/ProffyMobile.gif" width="220px">
 </h1>
 
+## :chart_with_upwards_trend: Lições aprendidas
 
+- Conceitos do React.JS (JSX, Componentes, Propridades, Estado, SPAs - Single Page Application);
+- Criação de estilos globais;
+- Configuração de navegação do App;
+- Criação de componentes comuns;
+- Conceitos de Back-End;
+- Conceitos de API Rest;
+- Conceitos Node.JS (Rotas, Recursos, Métodos HTTP e Parâmetros);
+- Configuração de conexão e criação de tabelas de Banco de dados em SQL;
+- Estruturação do App Mobile;
+- Utilização do Framework Expo para criação do App;
+- Conceitos de React Native (Elementos e Estilização);
+- Conexão do App Mobile com a API.
 
 ## :mortar_board: Ministrador por?
 
